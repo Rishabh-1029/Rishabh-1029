@@ -1,11 +1,11 @@
 ## Hi, I’m Rishabh Surana
 
-Full-Stack & AI Developer | Open to Impactful Collaborations and Discussions
+Full-Stack & AI Developer | Open to Collaborations and Discussions
 
 ## About Me
   I am a **B.Tech CSE (AI & ML)** student at **Bennett University**.
-  I enjoy building end-to-end solutions that integrate **frontend**, **backend**, and **AI** intelligence into scalable applications.
-  I am passionate about learning, experimenting, and contributing to impactful projects — both personal and open source.
+  I enjoy building end-to-end solutions that integrate **frontend**, **backend**, and **AI** into scalable applications.
+  I keep learning, experimenting, and contributing to impactful projects both personal and open source.
 
 ## My Focus Areas
 - **AI & ML**: Machine Learning (ML), Large Language Models (LLM), Computer Vision (CV)
